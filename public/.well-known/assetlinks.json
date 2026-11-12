@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.luchi.biblioteca",
+      "sha256_cert_fingerprints": [
+        "15:78:75:DF:7E:C7:E7:5D:64:AB:B1:5B:2E:38:3C:FE:5C:91:33:C5:C2:2C:60:DC:7E:E2:E4:82:79:F7:D1:B3"
+      ]
+    }
+  }
+]
